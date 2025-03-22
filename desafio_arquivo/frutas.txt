@@ -1,0 +1,11 @@
+Banana
+Maçã
+Morango
+Pera
+Goiaba
+
+vermelho
+amarelo
+azul
+rosa
+roxo
